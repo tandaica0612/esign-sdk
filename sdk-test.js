@@ -1,6 +1,6 @@
 ﻿
 var digitalSignPopup = null;
-var siteUrl = `https://kyso.dkkd.gov.vn`;
+var siteUrl = `https://testkyso.dkkd.gov.vn`;
 var digitalSignCallback = undefined;
 var digitalCertCallback = undefined;
 
